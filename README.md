@@ -51,6 +51,4 @@
   </p>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilloidm&show_icons=true&locale=en&layout=compact" alt="murilloidm" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murilloidm&show_icons=true&locale=en" alt="murilloidm" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=murilloidm&show_icons=true&locale=en" alt="murilloidm" /></p>
