@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-murillo.idem@gmail.com-fff?style=flat&logo=Gmail&logoColor=black&link=mailto:murillo.idem@gmail.com)](mailto:murillo.idem@gmail.com)
 
 <p>
-  ❤ Apaixonado por tecnologia e suas soluções. 
+  ❤ Apaixonado por tecnologia e suas possibilidades. 
 </p>
 
 <p>
